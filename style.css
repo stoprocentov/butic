@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.menu-list {
+    border-top: 2px solid #AE7C78;
+    border-bottom: 2px solid #AE7C78;
+}
+
+.btn {
+    background-color: #D89999;
+    border-radius: 40px;
+    padding: 30px 70px 30px 70px;
+    width: 131px;
+
+}
+.content_authors-bouquet p{
+    margin-bottom: 50px;
+}
+
+.info-footer{
+    position: relative;
+}
+
+.contacts-work {
+    position: absolute;
+    background-color: #fff;
+    top: 30px;
+    left: 340px;
+    padding: 40px 117px 0 35px;
+    height: 520px;
+}
+
+.contacts {
+    padding-top: 14px;
+}
+
+.info-contact img{
+    width: 100%;
+}
+
+.page-footer {
+    background-color: #AE7C78;
+}
